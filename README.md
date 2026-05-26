@@ -3,6 +3,10 @@
 Group 11 - IE 421: High Frequency Trading  
 Spring 2026
 
+***Note:*** *This was a group project and I'm placing the final report here on my GitHub for portfolio purposes. Find the original repository [here](https://gitlab.engr.illinois.edu/ie421_high_frequency_trading_spring_2026/ie421_hft_spring_2026_group_11/group_11_project/-/blob/main/docs/final_report.md?plain=1)*
+
+**[Video Demo](https://youtu.be/vomZpQLYrJM)**
+
 ## 1. Executive Summary
 
 Order Book Lab is a browser-based market microstructure tool. It replays synthetic orders, loads historical market data, reconstructs order books, and visualizes what is happening inside the book.
@@ -143,17 +147,3 @@ Future work:
 - Add exportable analytics reports.
 - Build deeper execution-cost and liquidity-regime metrics.
 
-## 7. Team
-
-### Drake Bartolai
-
-<img src="images/headshot.png" alt="Drake Bartolai headshot" width="180">
-
-I am a Computer Engineering student graduating in May 2027. After graduation, I plan to pursue a career in trading, engineering, or technology consulting. Long-term, I want to found and run my own business in a field I am passionate about, including education, sports, technology, and finance. I enjoy building tools that I personally find useful, and I am currently learning how to make and distribute tools that other people find useful as well. On this project, I mainly focused on the core architecture, WebGL visualizations, overall product design, and the structure that made the demo feel like a cohesive tool.
-
-Contact:
-
-- GitHub: [github.com/dbartolai](https://github.com/dbartolai)
-- LinkedIn: [linkedin.com/in/drake-bartolai](https://www.linkedin.com/in/drake-bartolai/)
-- Email: [drakeab2@illinois.edu](mailto:drakeab2@illinois.edu)
-- Personal site: [bartolai.com](https://bartolai.com)
